@@ -1,0 +1,6 @@
+keras
+keras-models
+nltk
+flask
+tensorflow-cpu
+gunicorn
